@@ -2,7 +2,6 @@ package com.kodilla.CarRentalFrontend.client;
 
 import com.kodilla.CarRentalFrontend.config.BackendConfiguration;
 import com.kodilla.CarRentalFrontend.domain.DamageDto;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClientException;

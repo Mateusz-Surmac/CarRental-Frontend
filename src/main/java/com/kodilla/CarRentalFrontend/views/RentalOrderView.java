@@ -2,7 +2,6 @@ package com.kodilla.CarRentalFrontend.views;
 
 import com.kodilla.CarRentalFrontend.client.ClientClient;
 import com.kodilla.CarRentalFrontend.client.RentalOrderClient;
-import com.kodilla.CarRentalFrontend.domain.CarClass;
 import com.kodilla.CarRentalFrontend.domain.OrderStatus;
 import com.kodilla.CarRentalFrontend.domain.RentalOrderDto;
 import com.vaadin.flow.component.button.Button;
